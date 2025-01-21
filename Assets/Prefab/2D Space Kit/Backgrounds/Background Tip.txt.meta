@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 909dfd233e5c92a4692ce6481051e632
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Backgrounds/Background Tip.txt
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:9964432afe3763457ea8c8caeae1ab5b3c267484ec721c675a37b1a27e09aa59
+size 351

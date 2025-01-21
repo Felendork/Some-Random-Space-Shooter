@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: e0bfc7479007bc1479a9f7d769c5056e
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 217666
-  packageName: Ten Power-Ups
-  packageVersion: 1.0
-  assetPath: Assets/TeKniKo_Free/Power_Ups/Prefabs/Coin_Up.prefab
-  uploadId: 492303
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ef1b782a6cd6780b68ddf3ac63580112c61ba1ea6ecdd3aed5d703bc7108b1
+size 346

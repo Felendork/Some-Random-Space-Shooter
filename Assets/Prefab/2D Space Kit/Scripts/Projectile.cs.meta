@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 304f3693f902a6540be5ae2c4a6f0957
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Scripts/Projectile.cs
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b07da36e572ff413f3117cfe72647ef17c5c40a72efffd4e5dc9ed95623e38f
+size 427

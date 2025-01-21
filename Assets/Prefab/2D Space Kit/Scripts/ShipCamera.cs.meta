@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 57325101ec0f256438af8aed6522c0e1
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Scripts/ShipCamera.cs
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:5828bc9ccff3e9be07a0c658bdfd2e0582c544b0cb48ef8080032e25c0a3162c
+size 427

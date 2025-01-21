@@ -1,20 +1,3 @@
-﻿using UnityEngine;
-using System.Collections;
-
-public class Crosshair : MonoBehaviour {
-
-	Vector3 wanted_position;
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-		wanted_position = CustomPointer.pointerPosition;
-		wanted_position.z = transform.position.z;
-		transform.position =  wanted_position;
-	
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5beafb9c883155b417183605659db398a6b529a967cc554873adc20541b8bf06
+size 372

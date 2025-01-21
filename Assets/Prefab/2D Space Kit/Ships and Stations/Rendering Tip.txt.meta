@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 3b0780736a12e654eb11264e4db73818
-labels:
-- SpaceShip
-- Ship
-- Station
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Ships and Stations/Rendering Tip.txt
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4acea8cdb30d717979b68ec866863abec1c2cfbcb80e971621bbded27283ba5
+size 394

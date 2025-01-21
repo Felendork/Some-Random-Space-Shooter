@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 836d7ac5b25afc746ac6cd6b74c295d0
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 217666
-  packageName: Ten Power-Ups
-  packageVersion: 1.0
-  assetPath: Assets/TeKniKo_Free/Power_Ups/Prefabs/Rocket_Up.prefab
-  uploadId: 492303
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc359d71e1c36d7636940ce4a59a53a38674a23cc06610c52b4b43c3c4976c1
+size 348

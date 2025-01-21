@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 8cc1475bbdc741a49930291fef0c6aeb
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Scripts/Crosshair.cs
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:20d46d52ff661549b1088ff5bf3b5264fe5bc9a4a9c7b970bad89cd5e4c4f24a
+size 426

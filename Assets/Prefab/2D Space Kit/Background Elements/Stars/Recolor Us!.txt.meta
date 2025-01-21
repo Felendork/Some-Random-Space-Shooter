@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 58cf7d1bb01e5a141b9b26c24a037be1
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Background Elements/Stars/Recolor Us!.txt
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac16066e991b59871c4e38601bb74037ca03ff0622d9538a23aea65585ad3e54
+size 362

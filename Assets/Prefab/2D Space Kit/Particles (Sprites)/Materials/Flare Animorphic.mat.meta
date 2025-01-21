@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 7f3b305abdd7aa1419d31a9a9d5ba2c2
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Particles (Sprites)/Materials/Flare Animorphic.mat
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f1a3064cf05e8fbc060d3caf80841c14a4151d2b4dc5934a535f2a2dcabce66
+size 395

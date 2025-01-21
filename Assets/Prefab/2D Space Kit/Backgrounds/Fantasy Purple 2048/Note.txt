@@ -1,3 +1,3 @@
-These six backgrounds can be linked together like a standard skybox.
-
-They do not have perspective accounted for, meaning this will look terrible if you use a perspective camera!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9320086fff5992e7f60fb8d567481937985ec754a3cb75d22de04bdb1a0c1ae5
+size 178

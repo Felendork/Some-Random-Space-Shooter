@@ -1,1 +1,3 @@
-If you don't like the fact that ships get blurry when you zoom in, you can adjust the "Filter Mode" setting on the sprite's import settings. "Point" will keep hard-edged pixels when you zoom in or out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec84cf2635bf805dcc99587dbd39662dfbb57b5290495414e64738b5a60ea048
+size 201

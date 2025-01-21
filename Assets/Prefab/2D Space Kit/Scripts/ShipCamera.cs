@@ -1,31 +1,3 @@
-﻿using UnityEngine;
-using System.Collections;
-
-public class ShipCamera : MonoBehaviour {
-
-	public Transform target_object;
-	public float follow_tightness;
-	Vector3 wanted_position;
-	
-	
-
-	
-	
-	// Use this for initialization
-	void Start () {
-	
-	
-	}
-	
-	// Update is called once per frame
-	void FixedUpdate () {
-		
-		wanted_position = target_object.position;
-		wanted_position.z = transform.position.z;
-		transform.position = Vector3.Lerp(transform.position, wanted_position, Time.deltaTime * follow_tightness);
-		
-	}
-	
-	
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7e88bf5cbde11b59d2ac775dacba3909162301d7f96791496fa4d9faf6a72c5
+size 523

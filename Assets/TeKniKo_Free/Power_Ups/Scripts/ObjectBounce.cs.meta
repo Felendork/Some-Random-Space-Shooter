@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 04c2aa4f86ca6384e9a9c6d234cdef24
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 217666
-  packageName: Ten Power-Ups
-  packageVersion: 1.0
-  assetPath: Assets/TeKniKo_Free/Power_Ups/Scripts/ObjectBounce.cs
-  uploadId: 492303
+version https://git-lfs.github.com/spec/v1
+oid sha256:e26e91a563e7272cf9f477844402a13dcff056d9faf97952209bda253ef29b5b
+size 436

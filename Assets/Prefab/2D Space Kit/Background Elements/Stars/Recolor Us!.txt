@@ -1,1 +1,3 @@
-Instead of including ~20 massive star .pngs for each spectral class, I only created the most common types of stars in a single color. This makes it easy for you to recolor them to whatever suites your needs, and cuts down on the file size of this package.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71ecee1b3b8a89e8ffb76010e9c5e0a1be2e5a26cb5c3a46f27a88149fe3af26
+size 255

@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: e94711451283b5e4ea97dd9bec1c8506
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 217666
-  packageName: Ten Power-Ups
-  packageVersion: 1.0
-  assetPath: Assets/TeKniKo_Free/Power_Ups/Prefabs/Heal_Up.prefab
-  uploadId: 492303
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fceb0fbad49d3b545cf0e831307ad30cbcc60a21311041ad9cfdb449fde8cd6
+size 346

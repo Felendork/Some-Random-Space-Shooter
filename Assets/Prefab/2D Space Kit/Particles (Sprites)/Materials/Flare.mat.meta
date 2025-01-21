@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 04e9f0951fd12334985bb0e8ff7e7fd7
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Particles (Sprites)/Materials/Flare.mat
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b8ab1d5c148e4d813deaf38cda7722cf6c584639f9ba98dcafcf41189a96a5f
+size 384

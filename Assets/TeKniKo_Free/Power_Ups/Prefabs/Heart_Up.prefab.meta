@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 1396a2ea9f077044493cb2b01308fce0
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 217666
-  packageName: Ten Power-Ups
-  packageVersion: 1.0
-  assetPath: Assets/TeKniKo_Free/Power_Ups/Prefabs/Heart_Up.prefab
-  uploadId: 492303
+version https://git-lfs.github.com/spec/v1
+oid sha256:621dd4c54c4e2ddc44369e8176a7bbc5e656cf88fc279932afa70d53acdb8083
+size 347

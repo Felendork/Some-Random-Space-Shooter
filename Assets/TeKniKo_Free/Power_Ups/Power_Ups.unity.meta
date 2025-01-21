@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 3baedc119bb9e264daa1afd3c16c14e8
-DefaultImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 217666
-  packageName: Ten Power-Ups
-  packageVersion: 1.0
-  assetPath: Assets/TeKniKo_Free/Power_Ups/Power_Ups.unity
-  uploadId: 492303
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec106dc56f1b20c1bdc9483f8d5e9019b0ac99622f0446a24b1b03ab34085d06
+size 340

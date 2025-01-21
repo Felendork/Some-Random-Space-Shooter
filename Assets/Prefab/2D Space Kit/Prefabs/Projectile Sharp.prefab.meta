@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: bfe0ba4acc768a5448d46a6c63d8106a
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Prefabs/Projectile Sharp.prefab
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f18af177176976a48d2295db2d9f27857da0b60570c2a8def31d8eb9f2c9074
+size 376

@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 75795b269014860408c543a40cba331d
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Scripts/PSDestroy.cs
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:32c1bccea0c54ad61e56c8b0535ea1e2f26cec0bf7cf92cc5eda12e341726a1f
+size 426

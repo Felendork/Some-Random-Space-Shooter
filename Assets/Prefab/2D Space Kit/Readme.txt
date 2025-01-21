@@ -1,3 +1,3 @@
-If you have any questions, comments or concerns, please do not hesitate to email me at brettg94@live.com. Thanks!
-
-Let me know how you're using the package--I would love to make expansion packs in the future if there is enough interest.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bace75625c7f0a2f830eaec095bba1eb1d2263df397a9bfbff5493aaa9d0a0fa
+size 236

@@ -1,21 +1,3 @@
-﻿using UnityEngine;
-using System.Collections;
-
-public class ParallaxLayer : MonoBehaviour {
-
-	Vector3 wantedPosition;
-	public float movement_resistance = 1f; //1 = no movement, 0.9 = some movement, 0.5 = more movement, etc, 0 = centered at origin, layer is now foreground
-
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void FixedUpdate () {
-		wantedPosition = Camera.main.transform.position * movement_resistance;
-			wantedPosition.z = transform.position.z;
-			transform.position = wantedPosition;
-			
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:21160636357d33a26cb8e00e97ce4610db7a68808a52f203a22a995877b6356a
+size 556

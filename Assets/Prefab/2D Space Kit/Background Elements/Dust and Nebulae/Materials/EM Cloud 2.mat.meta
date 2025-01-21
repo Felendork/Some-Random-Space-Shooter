@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 4b86e1f5f19a7d7419231c97ecf80ad9
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 27662
-  packageName: 2D Space Kit
-  packageVersion: Initial 2
-  assetPath: Assets/2D Space Kit/Background Elements/Dust and Nebulae/Materials/EM
-    Cloud 2.mat
-  uploadId: 46238
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5dfe9c62258248df510a505a127e119e420db0e59cc49a21e85102bf984e17f
+size 410
