@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 743074882271579938}
   - component: {fileID: -5310255299662475625}
   - component: {fileID: -8079067568866275286}
+  - component: {fileID: 8381624220341248794}
   m_Layer: 0
   m_Name: Triple_Shot_Powerup
   m_TagString: Power Up
@@ -200,3 +201,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8381624220341248794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6066434236248585600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3abb80a6a647b4c44a31822f70487eeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  powerupID: 0
+  _powerUpSound: {fileID: 8300000, guid: 5ee343246919d2b4bba63ae629e95494, type: 3}

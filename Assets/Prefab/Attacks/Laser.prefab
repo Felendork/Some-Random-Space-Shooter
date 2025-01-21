@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6344771533056784639}
   - component: {fileID: 4133675690124851337}
   - component: {fileID: 2842888327595108366}
-  - component: {fileID: 8197268461603695101}
+  - component: {fileID: 3272442706515484198}
   m_Layer: 0
   m_Name: Laser
   m_TagString: Laser
@@ -77,7 +77,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1963517585
-  m_SortingLayer: 1
+  m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: b030d335857201646be69703e678d6e5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -163,7 +163,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &8197268461603695101
+--- !u!114 &3272442706515484198
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -172,7 +172,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 6879455508180875787}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1594e6b10eed533448d74b117871e448, type: 3}
+  m_Script: {fileID: 11500000, guid: 4d149314af62c1946b1287102c945b9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _tripleShotPrefab: {fileID: 453537802103538457, guid: fd62691752dce7f48894140886378ac4, type: 3}

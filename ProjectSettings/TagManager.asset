@@ -9,6 +9,14 @@ TagManager:
   - Triple Shot
   - Power Up
   - Enemy Laser
+  - Spawn_Manager
+  - Laser Beam
+  - Enemy Laser Beam
+  - Backwards Laser
+  - Collectable
+  - Dodging Enemy
+  - Homing_Missile
+  - Boss
   layers:
   - Default
   - TransparentFX

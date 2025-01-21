@@ -99,9 +99,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 8739034764502971868}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1594e6b10eed533448d74b117871e448, type: 3}
+  m_Script: {fileID: 11500000, guid: 4d149314af62c1946b1287102c945b9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _laser: {fileID: 0}
+  _enemyLaser: {fileID: 8739034764502971868}
 --- !u!50 &2157225186248159367
 Rigidbody2D:
   serializedVersion: 5
